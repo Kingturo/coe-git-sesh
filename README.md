@@ -1,8 +1,8 @@
-#This is my new GIT project!
+# This is my new GIT project!
 
-##Let's get going
+## Let's get going
 
-###Tasks
+### Tasks
 
 * My to dos
   * create a feature branch
